@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Corona Tracker</string>
+    <string name="global">Global State</string>
+    <string name="recovered">Recovered</string>
+    <string name="critical">Critical</string>
+    <string name="active">Active</string>
+    <string name="today_cases">Today Cases</string>
+    <string name="total_death">Total Death</string>
+    <string name="affected_country">Affected Country</string>
+    <string name="dialog_text">Please Check Your Internet \nConnection And Try Again</string>
+</resources>
